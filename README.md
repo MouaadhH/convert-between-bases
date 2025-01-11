@@ -1,21 +1,57 @@
-<h1 align="center">Hi 👋, I'm Mouaadh</h1>
-<h3 align="center">A passionate programmer from Algeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mouaadh&label=Profile%20views&color=0e75b6&style=flat" alt="mouaadh" /> </p>
+                   *      * * * * * * * * * * * * * * * * * *      *
+                  * *   * * ASDS TP Project Year: 2024/2025 * *   * *
+                * * * * * *     ----------------------      * * * * * *
+                  * *   * *          ------------           * *   * *
+                   *      * * * * * * * * * * * * * * * * * *      *
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mouaadh" alt="mouaadh" /></a> </p>
 
-- 🌱 I’m currently learning **C and Data structures**
+  ##  I ~ Subprograms List :
+       
 
-- 📫 How to reach me **handaoui.mouaadh@gmail.com**
+            1 ~ Coding :       
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mouaadh.handaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mouaadh.handaoui" height="30" width="40" /></a>
-</p>
+                    • Decimal to base b' { 2 , 8 , 16 , 32 , ... }                                                                                                                                                                                                                                          
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+            2 ~ Decoding :      
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mouaadh&show_icons=true&locale=en" alt="mouaadh" /></p>
+                    • Base b' { 2 , 8 , 16 , 32 , ... } to Decimal                                                                                                                          
 
+            3 ~ Transcoding :
+
+                    • Base b to Base b' /  b != b'      
+
+                    • Note: Do not forget to do the direct transcoding if b = ( b’ ) ^ n  
+  
+            4 ~ BCD Code :
+
+                    • BCD to Decimal                                                                                                                             
+                    • Decimal to BCD      
+
+            5 ~ BCD+3 Code :      
+
+                    • BCD+3 to BCD                                                                                                                             
+                    • BCD to BCD+3 
+
+            6 ~ Gray Code :                                                                                                                            
+
+                    • Gray to Binary                                                                                                                                                           
+                    • Binary to Gray    
+
+            7 ~ Sum in Binary
+
+                    • Addition in Binary Code     
+
+
+   ## II ~ Main Program in C :
+   
+
+            1 ~ Read Number in Base b and Convert to Base b' :
+
+                    • Input : Number in base b
+                    • Output : Number in base b'
+
+            2 ~ Add Two Numbers in Binary Code :
+
+                    • Input : Two Binary Numbers
+                    • Output : Sum in Binary and Decimal# NEW
